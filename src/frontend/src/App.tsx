@@ -71,6 +71,7 @@ const ARTISTS = [
   "Hadhvitha.M",
   "Shoba S",
   "Tania Sebastian",
+  "Varsha G",
 ];
 
 const EVENT_HIGHLIGHTS = [
@@ -100,7 +101,7 @@ const EVENT_HIGHLIGHTS = [
   },
   {
     title: "Exhibition Display",
-    desc: "April 4 & 5, 2026 · 10:00 AM – 5:00 PM · Explore artworks from 62 participating artists.",
+    desc: "April 4 & 5, 2026 · 10:00 AM – 5:00 PM · Explore artworks from 63 participating artists.",
   },
 ];
 
